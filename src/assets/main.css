@@ -1,0 +1,8 @@
+/* Tailwind imports */
+@import 'tailwindcss';
+
+/* Resets and Global rules */
+html,
+body {
+  height: 100%;
+}
